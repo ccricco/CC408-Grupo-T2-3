@@ -1,0 +1,850 @@
+{
+  "CH03": {
+    "jefe": 1,
+    "jefa": 1,
+    "jefe/a": 1,
+    "conyuge": 2,
+    "cónyuge": 2,
+    "pareja": 2,
+    "conyuge/pareja": 2,
+    "hijo": 3,
+    "hija": 3,
+    "hijastro": 3,
+    "hijastra": 3,
+    "hijo/a": 3,
+    "hijo/a/hijastro/a": 3,
+    "yerno": 4,
+    "nuera": 4,
+    "yerno/nuera": 4,
+    "nieto": 5,
+    "nieta": 5,
+    "nieto/a": 5,
+    "madre": 6,
+    "padre": 6,
+    "madre/padre": 6,
+    "suegro": 7,
+    "suegra": 7,
+    "suegro/a": 7,
+    "hermano": 8,
+    "hermana": 8,
+    "hermano/a": 8,
+    "otros familiares": 9,
+    "otro familiar": 9,
+    "no familiares": 10,
+    "no familiar": 10
+  },
+  "CH04": {
+    "hombre": 1,
+    "varon": 1,
+    "varón": 1,
+    "mujer": 2
+  },
+  "CH07": {
+    "unido": 1,
+    "union": 1,
+    "unión": 1,
+    "conviviente": 1,
+    "casado": 2,
+    "casada": 2,
+    "separado": 3,
+    "separada": 3,
+    "divorciado": 3,
+    "divorciada": 3,
+    "viudo": 4,
+    "viuda": 4,
+    "soltero": 5,
+    "soltera": 5
+  },
+  "CH08": {
+    "obra social": 1,
+    "pami": 1,
+    "mutual": 2,
+    "prepaga": 2,
+    "servicio de emergencia": 2,
+    "planes y seguros publicos": 3,
+    "planes y seguros públicos": 3,
+    "plan publico": 3,
+    "no paga ni le descuentan": 4,
+    "ninguna": 4,
+    "ns": 9,
+    "nr": 9,
+    "ns/nr": 9
+  },
+  "CH09": {
+    "si": 1,
+    "sí": 1,
+    "no": 2,
+    "menor de 2 años": 3
+  },
+  "CH10": {
+    "si, asiste": 1,
+    "sí, asiste": 1,
+    "no asiste, pero asistio": 2,
+    "no asiste, pero asistió": 2,
+    "nunca asistio": 3,
+    "nunca asistió": 3
+  },
+  "CH11": {
+    "publico": 1,
+    "público": 1,
+    "privado": 2,
+    "ns/nr": 9,
+    "ns": 9,
+    "nr": 9
+  },
+  "CH12": {
+    "jardin": 1,
+    "jardín": 1,
+    "preescolar": 1,
+    "primario": 2,
+    "egb": 3,
+    "secundario": 4,
+    "polimodal": 5,
+    "terciario": 6,
+    "universitario": 7,
+    "posgrado": 8,
+    "educacion especial": 9,
+    "educación especial": 9
+  },
+  "CH13": {
+    "si": 1,
+    "sí": 1,
+    "no": 2,
+    "ns/nr": 9,
+    "ns": 9,
+    "nr": 9
+  },
+  "CH15": {
+    "esta localidad": 1,
+    "en esta localidad": 1,
+    "otra localidad de esta provincia": 2,
+    "otra provincia": 3,
+    "pais limitrofe": 4,
+    "país limítrofe": 4,
+    "otro pais": 5,
+    "otro país": 5,
+    "ns/nr": 9
+  },
+  "CH16": {
+    "esta localidad": 1,
+    "en esta localidad": 1,
+    "otra localidad de esta provincia": 2,
+    "otra provincia": 3,
+    "pais limitrofe": 4,
+    "país limítrofe": 4,
+    "otro pais": 5,
+    "otro país": 5,
+    "no habia nacido": 6,
+    "no había nacido": 6,
+    "ns/nr": 9
+  },
+  "NIVEL_ED": {
+    "primario incompleto": 1,
+    "primaria incompleta": 1,
+    "primario completo": 2,
+    "primaria completa": 2,
+    "secundario incompleto": 3,
+    "secundario completo": 4,
+    "superior y universitario incompleto": 5,
+    "superior incompleto": 5,
+    "universitario incompleto": 5,
+    "superior y universitario completo": 6,
+    "superior completo": 6,
+    "universitario completo": 6,
+    "sin instruccion": 7,
+    "sin instrucción": 7,
+    "ns/nr": 9,
+    "ns": 9,
+    "nr": 9
+  },
+  "ESTADO": {
+    "ocupado": 1,
+    "desocupado": 2,
+    "inactivo": 3,
+    "menor de 10 años": 4,
+    "entrevista no realizada": 0
+  },
+  "CAT_OCUP": {
+    "patron": 1,
+    "patrón": 1,
+    "cuenta propia": 2,
+    "obrero": 3,
+    "empleado": 3,
+    "trabajador familiar sin remuneracion": 4,
+    "trabajador familiar sin remuneración": 4,
+    "ns/nr": 9
+  },
+  "CAT_INAC": {
+    "jubilado": 1,
+    "pensionado": 1,
+    "jubilado/pensionado": 1,
+    "rentista": 2,
+    "estudiante": 3,
+    "ama de casa": 4,
+    "menor de 6 años": 5,
+    "discapacitado": 6,
+    "otros": 7
+  },
+  "PP02C1": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C2": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C3": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C4": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C5": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C6": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C7": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02C8": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02H": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02I": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP03G": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP03I": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP03J": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP05E": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP05J": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP05K": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07C": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F1": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F2": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F3": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F4": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F1_1": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F1_2": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07F1_3": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07G1": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07G2": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07G3": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07G4": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07H": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP07I": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11L1": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11N": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11P": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11Q": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11R": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11S": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP11T": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP02E": {
+    "esta suspendido": 1,
+    "está suspendido": 1,
+    "ya tiene trabajo asegurado": 2,
+    "se canso de buscar": 3,
+    "se cansó de buscar": 3,
+    "poco trabajo en esta epoca": 4,
+    "hay poco trabajo en esta época del año": 4,
+    "otras razones": 5
+  },
+  "PP03C": {
+    "un solo empleo": 1,
+    "un solo trabajo": 1,
+    "mas de un empleo": 2,
+    "más de un empleo": 2,
+    "mas de un trabajo": 2,
+    "más de un trabajo": 2
+  },
+  "PP03H": {
+    "podia trabajarlas esa semana": 1,
+    "podía trabajarlas esa semana": 1,
+    "en 2 semanas": 2,
+    "no podia": 3,
+    "no podía": 3,
+    "ns/nr": 9
+  },
+  "PP03K": {
+    "queria cambiar de trabajo": 1,
+    "quería cambiar de trabajo": 1,
+    "agregar al que tiene": 2,
+    "se termina el trabajo": 3,
+    "estaba sin trabajo": 4
+  },
+  "INTENSI": {
+    "subocupado por insuficiencia horaria": 1,
+    "ocupado pleno": 2,
+    "sobreocupado": 3,
+    "ocupado que no trabajo en la semana": 4,
+    "ocupado que no trabajó en la semana": 4,
+    "ns/nr": 9
+  },
+  "PP04A": {
+    "estatal": 1,
+    "privado": 2,
+    "otro": 3
+  },
+  "PP04A1": {
+    "nacional": 1,
+    "provincial": 2,
+    "municipal": 3,
+    "ns/nr": 9
+  },
+  "PP04B1": {
+    "casa de familia": 1
+  },
+  "PP04C": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "99": 99
+  },
+  "PP04C99": {
+    "hasta 5": 1,
+    "de 6 a 40": 2,
+    "mas de 40": 3,
+    "más de 40": 3,
+    "ns/nr": 9
+  },
+  "PP04G": {
+    "local/oficina/establecimiento/negocio/taller": 11,
+    "local": 11,
+    "oficina": 11,
+    "establecimiento": 11,
+    "negocio": 11,
+    "taller": 11,
+    "vivienda con lugar exclusivo": 12,
+    "chacra": 13,
+    "finca": 13,
+    "puesto fijo callejero": 2,
+    "vehiculos no transporte": 3,
+    "vehículos no transporte": 3,
+    "vehiculo de transporte": 4,
+    "vehículo de transporte": 4,
+    "obras/mineria": 5,
+    "obras en construccion": 5,
+    "mineria": 5,
+    "minería": 5,
+    "vivienda sin lugar exclusivo": 6,
+    "vivienda del socio o patron": 7,
+    "vivienda del socio o patrón": 7,
+    "domicilio de clientes": 8,
+    "calle/ambulante": 9,
+    "otros": 10,
+    "otro": 10
+  },
+  "PP05C_1": {
+    "propio": 1,
+    "prestado": 2,
+    "alquilado": 2,
+    "no tiene": 3
+  },
+  "PP05C_2": {
+    "propio": 1,
+    "prestado": 2,
+    "alquilado": 2,
+    "no tiene": 3
+  },
+  "PP05C_3": {
+    "propio": 1,
+    "prestado": 2,
+    "alquilado": 2,
+    "no tiene": 3
+  },
+  "PP05F": {
+    "un solo cliente": 6,
+    "distintos clientes": 7
+  },
+  "PP05H": {
+    "menos de 1 mes": 1,
+    "1 a 3 meses": 2,
+    "mas de 3 a 6 meses": 3,
+    "más de 3 a 6 meses": 3,
+    "mas de 6 meses a 1 año": 4,
+    "más de 6 meses a 1 año": 4,
+    "mas de 1 a 5 años": 5,
+    "más de 1 a 5 años": 5,
+    "mas de 5 años": 6,
+    "más de 5 años": 6,
+    "ns/nr": 9
+  },
+  "PP05I": {
+    "monotributista": 1,
+    "monotributista social": 2,
+    "autonomo": 3,
+    "autónomo": 3,
+    "caja provincial": 3,
+    "caja profesional": 3,
+    "ninguno": 4
+  },
+  "PP07A": {
+    "menos de 1 mes": 1,
+    "1 a 3 meses": 2,
+    "mas de 3 a 6 meses": 3,
+    "más de 3 a 6 meses": 3,
+    "mas de 6 a 12 meses": 4,
+    "más de 6 a 12 meses": 4,
+    "mas de 1 a 5 años": 5,
+    "más de 1 a 5 años": 5,
+    "mas de 5 años": 6,
+    "más de 5 años": 6,
+    "ns/nr": 9
+  },
+  "PP07D": {
+    "solo fue esa vez": 1,
+    "solo cuando lo llaman": 1,
+    "hasta 3 meses": 2,
+    "mas de 3 a 6 meses": 3,
+    "más de 3 a 6 meses": 3,
+    "mas de 6 a 12 meses": 4,
+    "más de 6 a 12 meses": 4,
+    "mas de 1 año": 5,
+    "más de 1 año": 5,
+    "ns/nr": 9
+  },
+  "PP07E": {
+    "periodo de prueba": 2,
+    "período de prueba": 2,
+    "beca": 3,
+    "pasantia": 3,
+    "pasantía": 3,
+    "aprendizaje": 3,
+    "ninguno": 4
+  },
+  "PP07F5": {
+    "si": 1,
+    "sí": 1
+  },
+  "PP07G_59": {
+    "no tiene ninguno": 5,
+    "ninguno": 5
+  },
+  "PP07J": {
+    "dia": 1,
+    "día": 1,
+    "noche": 2,
+    "otro": 3
+  },
+  "PP07K": {
+    "recibo con sello": 1,
+    "recibo formal": 1,
+    "papel sin nada": 2,
+    "factura": 3,
+    "no le dan ni entrega nada": 4,
+    "no cobra": 5,
+    "sin pago": 5
+  },
+  "PP09A": {
+    "caba": 1,
+    "ciudad autonoma de buenos aires": 1,
+    "ciudad autónoma de buenos aires": 1,
+    "partidos del gran buenos aires": 2,
+    "ambos": 3,
+    "otro": 4,
+    "otro lugar": 4
+  },
+  "PP09B": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP09C": {
+    "otro lugar de esta provincia": 1,
+    "otra provincia": 2,
+    "otro pais": 3,
+    "otro país": 3
+  },
+  "PP10A": {
+    "menos de 1 mes": 1,
+    "1 a 3 meses": 2,
+    "mas de 3 a 6 meses": 3,
+    "más de 3 a 6 meses": 3,
+    "mas de 6 a 12 meses": 4,
+    "más de 6 a 12 meses": 4,
+    "mas de 1 año": 5,
+    "más de 1 año": 5
+  },
+  "PP10C": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP10D": {
+    "si": 1,
+    "sí": 1,
+    "s": 1,
+    "1": 1,
+    "no": 2,
+    "n": 2,
+    "2": 2
+  },
+  "PP10E": {
+    "menos de 1 mes": 1,
+    "1 a 3 meses": 2,
+    "mas de 3 a 6 meses": 3,
+    "más de 3 a 6 meses": 3,
+    "mas de 6 a 12 meses": 4,
+    "más de 6 a 12 meses": 4,
+    "mas de 1 a 3 años": 5,
+    "más de 1 a 3 años": 5,
+    "mas de 3 años": 6,
+    "más de 3 años": 6
+  },
+  "PP11A": {
+    "estatal": 1,
+    "privado": 2,
+    "otro": 3
+  },
+  "PP11B1": {
+    "casa de familia": 1
+  },
+  "PP11C": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "99": 99
+  },
+  "PP11C99": {
+    "hasta 5": 1,
+    "de 6 a 40": 2,
+    "mas de 40": 3,
+    "más de 40": 3,
+    "ns/nr": 9
+  },
+  "PP11L": {
+    "falta de clientes": 1,
+    "falta de capital": 2,
+    "trabajo estacional": 3,
+    "gastos demasiado altos": 4,
+    "otras causas laborales": 5,
+    "jubilacion/retiro": 6,
+    "jubilación/retiro": 6,
+    "causas personales": 7
+  },
+  "PP11M": {
+    "periodo de prueba": 2,
+    "período de prueba": 2,
+    "beca/pasantia/aprendizaje": 2,
+    "otro tipo": 3,
+    "otro": 3
+  },
+  "PP11O": {
+    "despido/cierre": 1,
+    "retiro voluntario del sector publico": 2,
+    "retiro voluntario del sector público": 2,
+    "jubilacion": 3,
+    "jubilación": 3,
+    "fin de trabajo temporario/estacional": 4,
+    "le pagaban poco/no le pagaban": 5,
+    "malas relaciones laborales/malas condiciones": 6,
+    "renuncia obligada/pactada": 7,
+    "otras causas laborales": 8,
+    "razones personales": 9
+  }
+}
